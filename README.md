@@ -14,7 +14,7 @@ I'm a detail-oriented and determined **Computer Science student**, currently in 
 ## 📨 Contact Information
 - **Email:** [mmariacatalina11@gmail.com](mailto:mmariacatalina11@gmail.com)
 - **LinkedIn:** [Maria-Catalina Manolache](https://www.linkedin.com/in/maria-catalina-manolache-518722332/)
-- **My CV:** [Google Drive Link](https://drive.google.com/file/d/145YMFPywa13FJMav4Dzk2rOFurGohxbA/view?usp=sharing)
+- **My CV:** [Google Drive Link](https://drive.google.com/file/d/165ubLNVkjJugIi5kEMhBCUIaTSY5uagx/view?usp=sharing)
 
 ## 🛠️ Tech Stack
 
