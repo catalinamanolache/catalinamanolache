@@ -33,12 +33,3 @@ I'm a detail-oriented and determined **Computer Science student**, currently in 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Cataman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=catalinamanolache&show_icons=true&theme=tokyonight&count_private=true)
-
-</div>
-
-
