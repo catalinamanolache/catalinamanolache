@@ -2,11 +2,12 @@
 
 ## 👩‍💻 About Me
 I'm a detail-oriented and determined **Computer Science student**, currently in my
-**3rd year at Politehnica Bucharest**, with a strong interest in building
+**4th year at Politehnica Bucharest and interning at Adobe**, with a strong interest in building
 **innovative and complex solutions** and delving into the latest technologies.
 
 ## 🔭 Current Focus
-- 🎓 **3rd Year Computer Science Student**
+- 👩‍💻 **2026 Adobe Bucharest Intern**
+- 🎓 **4th Year Computer Science Student**
 - 💻 **Exploring** many new and exciting areas in tech
 - 🤝 **Connecting** with like-minded people
 - 🏆 Participating in **hackathons** and coding competitions
@@ -22,6 +23,7 @@ I'm a detail-oriented and determined **Computer Science student**, currently in 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=xilinx&logoColor=white)
@@ -29,7 +31,6 @@ I'm a detail-oriented and determined **Computer Science student**, currently in 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
